@@ -14,6 +14,9 @@ export default {
         extend: {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
+                vwtext:['VWText-Regular','sans-serif'],
+                vwheadlight:['VWHeadWeb-Light1','sans-serif'],
+                vwheadbold:['VWHead-Bold', 'sans-serif'],
             },
         },
     },
